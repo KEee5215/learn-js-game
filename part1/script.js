@@ -61,7 +61,7 @@ let animationStates = [
   },
 ];
 
-let playerState = "run";
+let playerState = "idle";
 
 const animations = document.getElementById("animations");
 const frames = document.getElementById("frames");
